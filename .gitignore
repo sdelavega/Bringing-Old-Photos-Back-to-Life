@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 *~
 
+*.pth
+Face_Enhancement/models/networks/Synchronized-BatchNorm-PyTorch/
+Global/checkpoints/detection/FT_Epoch_latest.pt
+Global/detection_models/Synchronized-BatchNorm-PyTorch/
